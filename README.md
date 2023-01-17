@@ -8,7 +8,7 @@
 <!-- [![Twitter: borjita](https://img.shields.io/twitter/follow/borjita?style=social)](https://twitter.com/borjita) -->
 
 [![Linkedin: anborja](https://img.shields.io/badge/-anborja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-andr%C3%A9s-borja-7bb853236/)](https://www.linkedin.com/in/carlos-andr%C3%A9s-borja-7bb853236/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/anvorja)
+[![GitHub Anvorja](https://img.shields.io/github/followers/anvorja?label=follow&style=social)](https://github.com/anvorja)
 
 
 <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1673536888~exp=1673537488~hmac=39e24cdcc7a972dcefbdd4057f09ccd15f920c17c4daf82b523e7b0f82d0bd7a" width="250">
