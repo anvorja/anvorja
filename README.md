@@ -70,6 +70,10 @@
 <p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31rurymmrqtnkassiskgbb7nprga&cover_image=true&theme=default&show_offline=false&background_color=121212"></p>
 
   ---
+ 
+ #### **Visitor Count:**
+ ![Visitor Count](https://profile-counter.glitch.me/{anvorja}/count.svg)
+  
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvorja)](https://github.com/anvorja/github-readme-stats)
 
