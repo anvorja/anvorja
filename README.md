@@ -92,8 +92,8 @@
   
 ---
 ⭐️ From [@anvorja](https://github.com/anvorja)
-
-<p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31rurymmrqtnkassiskgbb7nprga&cover_image=true&theme=default&show_offline=false&background_color=121212"></p>
+<!-- TODO: spotify implementation-->
+<!-- <p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31rurymmrqtnkassiskgbb7nprga&cover_image=true&theme=default&show_offline=false&background_color=121212"></p>-->
 
   ---
  
