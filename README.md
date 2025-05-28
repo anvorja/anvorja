@@ -2,7 +2,7 @@
 
 <h2> 👋 Hi! I'm Andrés <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1673536888~exp=1673537488~hmac=39e24cdcc7a972dcefbdd4057f09ccd15f920c17c4daf82b523e7b0f82d0bd7a" width="230">-->
-<p><em>Software Engineer student at <a href="https://www.univalle.edu.co/">Universidad del Valle </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance & self-taught person <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> 
+<p><em>Software Engineer at <a href="https://www.univalle.edu.co/">Universidad del Valle </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance & self-taught person <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> 
 </em></p>
 
 <!-- [![Twitter: borjita](https://img.shields.io/twitter/follow/borjita?style=social)](https://twitter.com/borjita) -->
