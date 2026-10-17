@@ -85,14 +85,10 @@
 [![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)](https://www.mi.com/global/)
 
 <!-- (p. ej dark., radical, merko, gruvbox, , tokyonight, onedark, cobalt, synthwave, highcontrast, dracula) -->
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anvorja&show_icons=true&theme=radical&count_private=true" /></p>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=anvorja&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /></p>
 <!--top-langs-->
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anvorja&theme=bear&line_height=40&hide=css"/></p> 
   
 ---
 ⭐️ From [@anvorja](https://github.com/anvorja)
-<!-- TODO: spotify implementation-->
-<!-- <p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31rurymmrqtnkassiskgbb7nprga&cover_image=true&theme=default&show_offline=false&background_color=121212"></p>-->
 
-  ---
+---
