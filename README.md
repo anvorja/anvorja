@@ -96,17 +96,3 @@
 <!-- <p align="center"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31rurymmrqtnkassiskgbb7nprga&cover_image=true&theme=default&show_offline=false&background_color=121212"></p>-->
 
   ---
- 
- #### **Visitor Count:**
- ![Visitor Count](https://profile-counter.glitch.me/{anvorja}/count.svg)
-  
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvorja)](https://github.com/anvorja/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvorja&exclude_repo=github-readme-stats,anvorja.github.io)](https://github.com/anvorja/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvorja&hide=javascript,html)](https://github.com/anvorja/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvorja&langs_count=8)](https://github.com/anvorja/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvorja&layout=compact)](https://github.com/anvorja/github-readme-stats)-->
